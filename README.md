@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @LiyangSong
 - 🌱 I’m currently learning MSDS program in the Northeastern University
-- ✨ Python Java C R SQL JS HTML CSS
+- ✨ Java Python JavaScript HTML CSS SQL R C
+- 🎨 React Spring AWS Linux LaTex scikit-learn 
