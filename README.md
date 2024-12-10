@@ -6,7 +6,7 @@ I’m a current Master’s in Data Science student at the Northeastern Universit
 
 Most of the time I live in Portland, ME of the United States.
 
-I am an INFJ, a husband, and a big fan of RPG and SLG.
+I am an INFJ, a new husband, and a big fan of RPG and SLG games.
 
 ## Reach Me
 
