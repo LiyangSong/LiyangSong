@@ -2,11 +2,11 @@
 
 Hi, my name is Liyang Song.
 
-I’m a current Master’s in Data Science student at the Northeastern University.
+I’m a Research Assistant and a Master student in Data Science at the Northeastern University.
 
 Most of the time I live in Portland, ME of the United States.
 
-I am an INFJ, a new husband, and a big fan of RPG and SLG games.
+I am a crazy fan of RPG and SLG games.
 
 ## Reach Me
 
